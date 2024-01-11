@@ -1,0 +1,2 @@
+@Library('shared-library') _
+etechApp 'git@github.com:LionelBr/lioApp1.git'
